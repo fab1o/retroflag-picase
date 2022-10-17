@@ -30,7 +30,8 @@ The RetroFlag GPiCase 2 CM4 safe shutdown script will automatically switch betwe
 4. In the terminal, type the one-line command below(Case sensitive):
 
 ```bash
-wget -O - "https://raw.githubusercontent.com/RetroFlag/retroflag-picase/master/install_gpi.sh" | sudo bash
+wget https://raw.githubusercontent.com/fab1o/retroflag-picase/master/install_gpi.sh
+sudo ./install.sh
 ```
 
 
@@ -42,7 +43,8 @@ wget -O - "https://raw.githubusercontent.com/RetroFlag/retroflag-picase/master/i
 5. In the terminal, type the one-line command below(Case sensitive):
 
 ```bash
-wget -O - "https://raw.githubusercontent.com/RetroFlag/retroflag-picase/master/recalbox_install_gpi.sh" | bash
+wget https://raw.githubusercontent.com/fab1o/retroflag-picase/master/recalbox_install_gpi.sh
+sudo ./install.sh
 ```
   
 -------------------- 
@@ -62,7 +64,8 @@ RetroFlag Pi-Case Safe Shutdown
 4. In the terminal, type the one-line command below(Case sensitive):
 
 ```bash
-wget -O - "https://raw.githubusercontent.com/RetroFlag/retroflag-picase/master/install.sh" | sudo bash
+wget https://raw.githubusercontent.com/fab1o/retroflag-picase/master/install.sh
+sudo ./install.sh
 ```
 
 
@@ -74,7 +77,8 @@ wget -O - "https://raw.githubusercontent.com/RetroFlag/retroflag-picase/master/i
 5. In the terminal, type the one-line command below(Case sensitive):
 
 ```bash
-wget -O - "https://raw.githubusercontent.com/RetroFlag/retroflag-picase/master/recalbox_install.sh" | bash
+wget https://raw.githubusercontent.com/fab1o/retroflag-picase/master/recalbox_install.sh
+sudo ./install.sh
 ```
 
 
@@ -87,7 +91,8 @@ wget -O - "https://raw.githubusercontent.com/RetroFlag/retroflag-picase/master/r
 5. In the terminal, type the one-line command below(Case sensitive):
 
 ```bash
-wget -O - "https://raw.githubusercontent.com/RetroFlag/retroflag-picase/master/batocera_install.sh" | bash
+wget https://raw.githubusercontent.com/fab1o/retroflag-picase/master/batocera_install.sh
+sudo ./install.sh
 ```
 
 
