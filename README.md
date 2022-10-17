@@ -31,6 +31,7 @@ The RetroFlag GPiCase 2 CM4 safe shutdown script will automatically switch betwe
 
 ```bash
 wget https://raw.githubusercontent.com/fab1o/retroflag-picase/master/install_gpi.sh
+chmod +x install.sh
 sudo ./install.sh
 ```
 
@@ -44,6 +45,7 @@ sudo ./install.sh
 
 ```bash
 wget https://raw.githubusercontent.com/fab1o/retroflag-picase/master/recalbox_install_gpi.sh
+chmod +x install.sh
 sudo ./install.sh
 ```
   
@@ -65,6 +67,7 @@ RetroFlag Pi-Case Safe Shutdown
 
 ```bash
 wget https://raw.githubusercontent.com/fab1o/retroflag-picase/master/install.sh
+chmod +x install.sh
 sudo ./install.sh
 ```
 
@@ -78,6 +81,7 @@ sudo ./install.sh
 
 ```bash
 wget https://raw.githubusercontent.com/fab1o/retroflag-picase/master/recalbox_install.sh
+chmod +x install.sh
 sudo ./install.sh
 ```
 
@@ -92,6 +96,7 @@ sudo ./install.sh
 
 ```bash
 wget https://raw.githubusercontent.com/fab1o/retroflag-picase/master/batocera_install.sh
+chmod +x install.sh
 sudo ./install.sh
 ```
 
